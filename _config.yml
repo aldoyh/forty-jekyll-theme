@@ -17,7 +17,7 @@ phone: +973 3333 3333
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 10
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
@@ -25,9 +25,9 @@ tiles-count: 6
 # You need to restart jekyll for changes to have an effect
 socials:
   GitHub: https://github.com/aldoyh
-  GitLab:
-  Google-Plus:
-  Instagram:
+  GitLab: https://gitlab.com/aldoyh
+  Google-Plus: https://plus.google.com/+HasanAlDoy
+  Instagram:  https://www.instagram.com/aldoyh
   LinkedIn: https://www.linkedin.com/in/aldoyh
   Twitter: https://twitter.com/aldoyh
   Facebook:
