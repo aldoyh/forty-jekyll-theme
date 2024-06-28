@@ -1,0 +1,330 @@
+{
+    "id": 10707,
+    "date": "2023-09-06T05:37:28",
+    "date_gmt": "2023-09-06T02:37:28",
+    "guid": {
+        "rendered": "https:\/\/doy.tech\/?p=10707"
+    },
+    "modified": "2023-09-06T05:37:28",
+    "modified_gmt": "2023-09-06T02:37:28",
+    "slug": "quick-easy-way-to-migrate-your-blog-into-an-affordable-hosting-wp",
+    "status": "publish",
+    "type": "post",
+    "link": "https:\/\/doy.tech\/quick-easy-way-to-migrate-your-blog-into-an-affordable-hosting-wp\/",
+    "title": {
+        "rendered": "Quick Easy Way to Migrate your Blog into an affordable hosting WP"
+    },
+    "content": {
+        "rendered": "<p>I have come across an interesting article from wordpress.com on the easy genius and the ability of migrating, your own blog, or your business website to our mothership hosting, I would like to share some personal opinion inspired by that article.<\/p>\n<h3>The Seamlessness<\/h3>\n<p>One of the most important tasks when migrating your site to WordPress.com is to ensure a smooth and secure transition. That's why we have developed two new tools to make the process as hassle-free as possible - a migration plugin and a content importer.<\/p>\n<h3>The Free Migration Plugin<\/h3>\n<p>Firstly, let's talk about the migration plugin. As an experienced web developer, you may have come across challenges when moving your website to WordPress.com. It can be time-consuming and frustrating, especially if you're not familiar with the technical aspects of the process. That's why they have created a free plugin that takes care of the migration for you. With just a few clicks, you can transfer your site to WordPress.com without any hassle. Simply install, activate, and run the plugin on your WordPress site, and the plugin will handle the entire migration for you. It's as easy as that!<\/p>\n<p>Next, let's explore our content importer. WP Team understand that not everyone is a web developer, and many people come from different platforms with different levels of expertise. That's why they've unified the migration process for users coming from Blogger, Medium, Squarespace, Substack, Wix, and others. No matter where you're coming from, you'll receive the same exceptional service and modern import interface. So whether you're a professional web developer or a blogger looking to move your site to WordPress.com, you'll be up and running in no time.<\/p>\n<p>When it comes to security, they take it very seriously. Our team is constantly monitoring and updating our security measures to keep your website and content safe. Plus, our managed hosting service provides world-class performance, so you can rest assured that your website is running smoothly and efficiently.<\/p>\n<p>At WordPress.com, they provide everything you need to create and grow an outstanding website. Whether you're a seasoned web developer or a novice, our tools and services are designed to make your website-building journey easy and enjoyable. With our managed hosting service, dedicated support team, and cutting-edge features, you can focus on what matters most - building an online presence that resonates with your audience.<\/p>\n<p>Inspired by Donna Cavalier<\/p>\n<p><a href=\"https:\/\/wordpress.com\/blog\/2023\/09\/05\/migrate-to-wordpress\/\">https:\/\/wordpress.com\/blog\/2023\/09\/05\/migrate-to-wordpress\/<\/a><\/p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>I have come across an interesting article from wordpress.com on the easy genius and the ability of migrating, your own blog, or your business website to our mothership hosting, I would like to share some personal opinion inspired by that article. The Seamlessness One of the most important tasks when migrating your site to WordPress.com [&hellip;]<\/p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 10710,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "_gspb_post_css": "",
+        "footnotes": ""
+    },
+    "categories": [
+        157,
+        312
+    ],
+    "tags": [],
+    "acf": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/posts\/10707"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/types\/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/users\/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/comments?post=10707"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 2,
+                "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/posts\/10707\/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 10709,
+                "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/posts\/10707\/revisions\/10709"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/media\/10710"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/media?parent=10707"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/categories?post=10707"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/tags?post=10707"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }
+        ]
+    },
+    "_embedded": {
+        "author": [
+            {
+                "code": "rest_user_invalid_id",
+                "message": "Invalid user ID.",
+                "data": {
+                    "status": 404
+                }
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "id": 10710,
+                "date": "2023-09-06T05:36:16",
+                "slug": "wordpress-3446158_1920",
+                "type": "attachment",
+                "link": "https:\/\/doy.tech\/quick-easy-way-to-migrate-your-blog-into-an-affordable-hosting-wp\/wordpress-3446158_1920\/",
+                "title": {
+                    "rendered": "wordpress-3446158_1920"
+                },
+                "author": 1,
+                "acf": [],
+                "caption": {
+                    "rendered": ""
+                },
+                "alt_text": "",
+                "media_type": "image",
+                "mime_type": "image\/webp",
+                "media_details": {
+                    "width": 1888,
+                    "height": 1042,
+                    "file": "wordpress-3446158_1920-e1693967800962.webp",
+                    "filesize": 53920,
+                    "sizes": {
+                        "medium": {
+                            "file": "wordpress-3446158_1920-e1693967800962-300x166.webp",
+                            "width": 300,
+                            "height": 166,
+                            "filesize": 6252,
+                            "mime_type": "image\/webp",
+                            "source_url": "https:\/\/doy.tech\/wp-content\/uploads\/wordpress-3446158_1920-e1693967800962-300x166.webp"
+                        },
+                        "large": {
+                            "file": "wordpress-3446158_1920-e1693967800962-1024x565.webp",
+                            "width": 1024,
+                            "height": 565,
+                            "filesize": 28870,
+                            "mime_type": "image\/webp",
+                            "source_url": "https:\/\/doy.tech\/wp-content\/uploads\/wordpress-3446158_1920-e1693967800962-1024x565.webp"
+                        },
+                        "thumbnail": {
+                            "file": "wordpress-3446158_1920-e1693967800962-150x150.webp",
+                            "width": 150,
+                            "height": 150,
+                            "filesize": 3668,
+                            "mime_type": "image\/webp",
+                            "source_url": "https:\/\/doy.tech\/wp-content\/uploads\/wordpress-3446158_1920-e1693967800962-150x150.webp"
+                        },
+                        "medium_large": {
+                            "file": "wordpress-3446158_1920-e1693967800962-768x424.webp",
+                            "width": 768,
+                            "height": 424,
+                            "filesize": 20030,
+                            "mime_type": "image\/webp",
+                            "source_url": "https:\/\/doy.tech\/wp-content\/uploads\/wordpress-3446158_1920-e1693967800962-768x424.webp"
+                        },
+                        "1536x1536": {
+                            "file": "wordpress-3446158_1920-e1693967800962-1536x848.webp",
+                            "width": 1536,
+                            "height": 848,
+                            "filesize": 46408,
+                            "mime_type": "image\/webp",
+                            "source_url": "https:\/\/doy.tech\/wp-content\/uploads\/wordpress-3446158_1920-e1693967800962-1536x848.webp"
+                        },
+                        "wpca-thumb": {
+                            "file": "wordpress-3446158_1920-e1693967800962-220x150.webp",
+                            "width": 220,
+                            "height": 150,
+                            "filesize": 4822,
+                            "mime_type": "image\/webp",
+                            "source_url": "https:\/\/doy.tech\/wp-content\/uploads\/wordpress-3446158_1920-e1693967800962-220x150.webp"
+                        },
+                        "full": {
+                            "file": "wordpress-3446158_1920-e1693967800962.webp",
+                            "width": 1888,
+                            "height": 1042,
+                            "mime_type": "image\/webp",
+                            "source_url": "https:\/\/doy.tech\/wp-content\/uploads\/wordpress-3446158_1920-e1693967800962.webp"
+                        }
+                    },
+                    "image_meta": {
+                        "aperture": "0",
+                        "credit": "",
+                        "camera": "",
+                        "caption": "",
+                        "created_timestamp": "0",
+                        "copyright": "",
+                        "focal_length": "0",
+                        "iso": "0",
+                        "shutter_speed": "0",
+                        "title": "",
+                        "orientation": "0",
+                        "keywords": []
+                    }
+                },
+                "source_url": "https:\/\/doy.tech\/wp-content\/uploads\/wordpress-3446158_1920-e1693967800962.webp",
+                "_links": {
+                    "self": [
+                        {
+                            "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/media\/10710"
+                        }
+                    ],
+                    "collection": [
+                        {
+                            "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/media"
+                        }
+                    ],
+                    "about": [
+                        {
+                            "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/types\/attachment"
+                        }
+                    ],
+                    "author": [
+                        {
+                            "embeddable": true,
+                            "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/users\/1"
+                        }
+                    ],
+                    "replies": [
+                        {
+                            "embeddable": true,
+                            "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/comments?post=10710"
+                        }
+                    ]
+                }
+            }
+        ],
+        "wp:term": [
+            [
+                {
+                    "id": 157,
+                    "link": "https:\/\/doy.tech\/category\/codes\/",
+                    "name": "Codes",
+                    "slug": "codes",
+                    "taxonomy": "category",
+                    "acf": [],
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/categories\/157"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/categories"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/taxonomies\/category"
+                            }
+                        ],
+                        "wp:post_type": [
+                            {
+                                "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/posts?categories=157"
+                            }
+                        ],
+                        "curies": [
+                            {
+                                "name": "wp",
+                                "href": "https:\/\/api.w.org\/{rel}",
+                                "templated": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 312,
+                    "link": "https:\/\/doy.tech\/category\/wordpress\/",
+                    "name": "WordPress",
+                    "slug": "wordpress",
+                    "taxonomy": "category",
+                    "acf": [],
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/categories\/312"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/categories"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/taxonomies\/category"
+                            }
+                        ],
+                        "wp:post_type": [
+                            {
+                                "href": "https:\/\/doy.tech\/wp-json\/wp\/v2\/posts?categories=312"
+                            }
+                        ],
+                        "curies": [
+                            {
+                                "name": "wp",
+                                "href": "https:\/\/api.w.org\/{rel}",
+                                "templated": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            []
+        ]
+    }
+}
